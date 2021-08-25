@@ -1,0 +1,10 @@
+body
+{
+    text-align: center;
+}
+textarea
+{
+    width: 60%;
+    height: 12rem;
+    text-align:justify ;
+}
